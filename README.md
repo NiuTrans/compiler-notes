@@ -16,10 +16,14 @@
 
 特别感谢参与讲义编写、排版、校对的同学们：*阮俊豪、常开妍、范瑀纯、黄鹏程、寇凯淇、周航，刘沛灼、赫洱锋、蒙龙、张靖男、黄灿安*
 
+网站地址： https://opensource.niutrans.com/complier-notes/homepage.html
+
+Github： https://github.com/NiuTrans/compiler-notes
+
+
 ## 讲义
 
-本书的完整版本：[完整版](https://opensource.niutrans.com/complier-notes/pdf/compiler-notes.pdf)
-
+讲义的完整版本：[完整版](./pdf/compiler-notes.pdf)
 - [目录](https://opensource.niutrans.com/complier-notes/pdf/contents.pdf)
 - [1 编译程序的基本概念](https://opensource.niutrans.com/complier-notes/pdf/chapter1.pdf)
 - [2 形式语言基础](https://opensource.niutrans.com/complier-notes/pdf/chapter2.pdf)
