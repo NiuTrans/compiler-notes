@@ -23,7 +23,7 @@ Github: https://github.com/NiuTrans/compiler-notes
 
 ## 讲义
 
-本书的完整版本：[完整版](./pdf/compiler-notes.pdf)
+讲义的完整版本：[完整版](./pdf/compiler-notes.pdf)
 
 - [目录](./pdf/contents.pdf)
 - [1 编译程序的基本概念](./pdf/chapter1.pdf)
