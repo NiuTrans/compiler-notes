@@ -16,7 +16,7 @@
 
 特别感谢参与讲义编写、排版、校对的同学们：*阮俊豪、常开妍、范瑀纯、黄鹏程、寇凯淇、周航，刘沛灼、赫洱锋、蒙龙、张靖男、黄灿安*
 
-网站地址：https://opensource.niutrans.com/complier-notes/homepage.html
+网站地址: https://opensource.niutrans.com/complier-notes/homepage.html
 
 Github: https://github.com/NiuTrans/compiler-notes
 
