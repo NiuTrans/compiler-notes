@@ -18,18 +18,18 @@
 
 ## 讲义
 
-本书的完整版本：[完整版](./pdf/compiler-notes.pdf)
+本书的完整版本：[完整版](https://opensource.niutrans.com/complier-notes/pdf/compiler-notes.pdf)
 
-- [目录](./pdf/contents.pdf)
-- [1 编译程序的基本概念](./pdf/chapter1.pdf)
-- [2 形式语言基础](./pdf/chapter2.pdf)
-- [3 自动机基础](./pdf/chapter3.pdf)
-- [4 词法分析](./pdf/chapter4.pdf)
-- [5 语法分析](./pdf/chapter5.pdf)
-- [6 符号表](./pdf/chapter6.pdf)
-- [7 中间代码生成](./pdf/chapter7.pdf)
-- [8 优化处理](./pdf/chapter8.pdf)
-- [9 目标代码及其生成](./pdf/chapter9.pdf)
+- [目录](https://opensource.niutrans.com/complier-notes/pdf/contents.pdf)
+- [1 编译程序的基本概念](https://opensource.niutrans.com/complier-notes/pdf/chapter1.pdf)
+- [2 形式语言基础](https://opensource.niutrans.com/complier-notes/pdf/chapter2.pdf)
+- [3 自动机基础](https://opensource.niutrans.com/complier-notes/pdf/chapter3.pdf)
+- [4 词法分析](https://opensource.niutrans.com/complier-notes/pdf/chapter4.pdf)
+- [5 语法分析](https://opensource.niutrans.com/complier-notes/pdf/chapter5.pdf)
+- [6 符号表](https://opensource.niutrans.com/complier-notes/pdf/chapter6.pdf)
+- [7 中间代码生成](https://opensource.niutrans.com/complier-notes/pdf/chapter7.pdf)
+- [8 优化处理](https://opensource.niutrans.com/complier-notes/pdf/chapter8.pdf)
+- [9 目标代码及其生成](https://opensource.niutrans.com/complier-notes/pdf/chapter9.pdf)
 
 ## 问题
 
